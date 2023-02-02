@@ -31,7 +31,7 @@ class Config(object):
         -1001618068091
     )  # add @miss_kristy_bot in your group and type /id
     STRICT_GMUTE = True #to allow gmutes
-    START_STICKER = "" #sticker id for start animation
+    START_STICKER = "CAACAgUAAxkBAAIGqWPbjJSS9VN78jnh6k8sL2Z3cgP3AALDBgACE9chVDfb3d0QhpUCLgQ" #sticker id for start animation
     TEMP_DOWNLOAD_DIRECTORY = ". /" # dont change
     OPENWEATHERMAP_ID = None
 
@@ -42,7 +42,7 @@ class Config(object):
     MONGO_DB_URI = "mongodb+srv://vcbot:vcbot@cluster0.yqipgxg.mongodb.net/?retryWrites=true&w=majority" #get it from mongodb.com get
     ARQ_API_KEY = "" #git it form @ARQRobot
     ARQ_API_URL = "https://arq.hamker.in" # dont change
-    SQLALCHEMY_DATABASE_URL = ""  # needed for any database modules get it from https://www.elephantsql.com/
+    SQLALCHEMY_DATABASE_URL = "postgres://xcjxxdmr:WL1DeXGfom6CvKzMwsD6h5ZR_UKhTDlS@hattie.db.elephantsql.com/xcjxxdmr"  # needed for any database modules get it from https://www.elephantsql.com/
     LOAD = []
     NO_LOAD = ["rss", "cleaner", "connection", "math"]
     WEBHOOK = False
