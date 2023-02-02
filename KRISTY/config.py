@@ -16,7 +16,7 @@ class Config(object):
     API_HASH = "dbbf679a4b429fab1bfea0b52b8f9be8" # get it form my.telegram.org
     TOKEN = "6091958748:AAEcw9e0jdy381xxQVeWUuV1eCoDSE7C3dA"  # get it form @botfather.
     OWNER_ID = 5897579715 # got to @miss_kristy_bot and type /id
-    OWNER_USERNAME = "I_AM_PRO_KING" # your telegram username
+    OWNER_USERNAME = "MR_HARSH_OP" # your telegram username
     ALLOW_CHATS = True # leave it as it is
     BOT_USERNAME = "Harshop12_musicbot" # your bot username get it form @botfather
     SUPPORT_CHAT = "chatting_gruap"  # Your own group for support, do not add the @ if you dont have leave it as it is
