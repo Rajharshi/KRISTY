@@ -38,7 +38,7 @@ class Config(object):
 
 
     # RECOMMENDED
-    STRING_SESSION ="BQAoAyn21syI26TYs0_0H7NMU2P0kt0vZ7dxCCqv83z3NcDULz9ETFVax4Wl5hQMWlnezAY7JTrjGuXCM6blSy2xIWkEH3ISDY4x_sr7Ot_TCy2AY8fp3wyPnSKN_v3ZCPKTcJt4bdMoqsypqWove9aG4yAl4defkzFLYSkosZW3FJBYzQgeoYJkGQMR4IPiYXUwNHdwQv1XpuXUeJcMJGm9Z3PI5WQ6m0BJ8-YNMgqKK6P_QZxcbF_B4SzrvC0_0M4SBJQkvnNSwSe7r08dE5c8YaXiRyVvc95_lJ4FYLiMlApv5pfMT6UNnotTaWpJ1YVK4Z2UIKxW9QOD24IaaYpkAAAAAV-F7MMA" #telethon string session of user or bot get it from https://replit.com/@MISSKRISTY/MISS-KRISTY
+    STRING_SESSION ="1BVtsOJYBuzSWN_OP-sKVUP-LrGnK7k5GYtj8Yx_9FbQ2qkW1N3-Adf-ZHYvhhRY1KA0EJkXqUh2fr-4XrwS0zT3NJxJhqF-K4gcjY-5rXCLY0_fr6XDu4D3uJpXsOZusl4rrSn76ncxQrty9sGCHzniTUzb5QPZZhU9JKkxPpN79wpOqexl0UJ0_BbBPg848kwYBQLete5gK31pTjh7uUyivGuiNAIBgs73-a2dyk_1Ie92Lc4Q0h1-YQGsDdCgzQ5V9ujMXu3u8OlAE0bhLrlh7QRwDZhb6-sRAIrnoiAtDcEGOx1YnzC1luyc__KTGKT_GHfPsrR4tRRpdtT08aLCXobl7i50=" #telethon string session of user or bot get it from https://replit.com/@MISSKRISTY/MISS-KRISTY
     MONGO_DB_URI = "mongodb+srv://vcbot:vcbot@cluster0.yqipgxg.mongodb.net/?retryWrites=true&w=majority" #get it from mongodb.com get
     ARQ_API_KEY = "" #git it form @ARQRobot
     ARQ_API_URL = "https://arq.hamker.in" # dont change
